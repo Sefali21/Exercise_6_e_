@@ -1,0 +1,10 @@
+# Exercise_6_e_
+
+Abstract the concept of Coin with a class (complete with comments).
+We assume that all the coins will have the EURO as the currency, and will have the encapsulated value variable.
+Does it make sense to create a coin without specifying its value?
+Create a constraint so that coins must be instantiated with a value.
+
+It is convenient to print a sentence in every important method
+to be able to verify the successful execution of our code.
+For example, when a currency is instantiated.
